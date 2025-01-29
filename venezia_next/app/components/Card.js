@@ -1,6 +1,6 @@
 export default function Card() {
     return (
-        <div className="flex items-center justify-center min-h-screen bg-white">
+        <div className="flex items-center justify-center min-h-screen bg-red-200">
             <div className="w-full max-w-sm bg-white rounded-xl shadow-lg overflow-hidden">
                 <img 
                     src="https://blog.venicecitytours.it/wp-content/uploads/2024/03/gabbiano-vola-sul-canal-grande-di-fronte-a-rialto-e-sopra-le-gondole.jpg"
