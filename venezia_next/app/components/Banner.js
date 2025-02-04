@@ -3,7 +3,7 @@ export default function Banner() {
         <div className="relative flex items-center justify-start h-96 w-full rounded-l-xl overflow-hidden">
             
             <img 
-                src="https://i.redd.it/a8pfjbjn15o51.jpg"
+                src="https://i.redd.it/r6fmltasj5091.jpg"
                 alt="Immagine con una community di alcolisti"
                 className="absolute top-0 left-0 w-full h-full object-cover" 
             />
